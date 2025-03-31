@@ -6,7 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.stereotype.Component;
 
 import java.util.Scanner;
-//
+
 @Component
 public class Main {
     private final Scanner input = new Scanner(System.in);
